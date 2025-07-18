@@ -1,6 +1,8 @@
 # Scriptwide Gradient CJK
 Rampart One with 3D effects removed
 
+<img width="1211" height="100" alt="image" src="https://github.com/user-attachments/assets/e644e50f-8047-46bb-8bd2-3f9f2b1875b9" />
+
 ## Background
 Fontworks released Rampart One under the OFL. However, only its 3D-styled characters are released.
 

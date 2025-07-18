@@ -1,4 +1,8 @@
 #!/bin/bash
+
+# This script was generated with the help of DeepSeek and is licensed under the MIT License.
+# See LICENSE-SCRIPT file for full terms.
+
 cd ~/Documents/RampartOne-Regular.ufo/glyphs
 
 # Install required tools if needed

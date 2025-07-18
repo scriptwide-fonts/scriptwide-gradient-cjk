@@ -1,4 +1,4 @@
-# Scriptwide Rampant CJK
+# Scriptwide Gradient CJK
 Rampart One with 3D effects removed
 
 ## Background

@@ -20,6 +20,6 @@ The script should run on GNU/Linux, and assumes the UFO font is located at `~/Do
 Note that this script takes an exceptionally long time to process all glyphs. On my computer, it took around an hour to modify all 9175 glyphs in Rampart One.
 
 ## Licensing
-All relevant font files are licensed under the OFL. Refer to `LICENSE-FONT` for details.
+All relevant font files are licensed under the OFL. Refer to [`LICENSE-FONT`](LICENSE-FONT) for details.
 
 `remove_contour.sh` was generated with the help of DeepSeek and is licensed under the MIT License. Refer to [`LICENSE-SCRIPT`](LICENSE-SCRIPT) for details.

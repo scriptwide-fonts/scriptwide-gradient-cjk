@@ -19,6 +19,14 @@ The script should run on GNU/Linux, and assumes the UFO font is located at `~/Do
 
 Note that this script takes an exceptionally long time to process all glyphs. On my computer, it took around an hour to modify all 9175 glyphs in Rampart One.
 
+### Generating a UFO file from Rampart One
+
+The instructions below are for FontForge. Steps may vary for other font editors.
+
+1. Open the Rampart One font file in FontForge.
+2. Go to `File` > `Generate Fonts...`.
+3. Select `Unified Font Object (UFO3)` and generate.
+
 ## Licensing
 All relevant font files are licensed under the OFL. Refer to [`LICENSE-FONT`](LICENSE-FONT) for details.
 

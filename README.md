@@ -28,6 +28,6 @@ The instructions below are for FontForge. Steps may vary for other font editors.
 3. Select `Unified Font Object (UFO3)` and generate.
 
 ## Licensing
-All relevant font files are licensed under the OFL. Refer to [`LICENSE-FONT`](LICENSE-FONT) for details.
+All relevant font files are licensed under the OFL. Rampart is a trademark of Fontworks Inc. Refer to [`LICENSE-FONT`](LICENSE-FONT) for details.
 
 `remove_contour.sh` was generated with the help of DeepSeek and is licensed under the MIT License. Refer to [`LICENSE-SCRIPT`](LICENSE-SCRIPT) for details.

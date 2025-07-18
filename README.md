@@ -8,7 +8,7 @@ Using scripts and manual glyph refining, I have (attempted to) remove the 3D sty
 
 No additional glyphs should be added.
 
-## `remove_contour.sh`
+## [`remove_contour.sh`](remove_contour.sh)
 This is the script used to remove the outermost contour from a UFO font. Manual refinement is required to fully remove all 3D effects.
 
 For best performance, run `sudo apt-get install -y xmlstarlet bc` before using the script.

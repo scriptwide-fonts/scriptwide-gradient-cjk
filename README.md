@@ -22,4 +22,4 @@ Note that this script takes an exceptionally long time to process all glyphs. On
 ## Licensing
 All relevant font files are licensed under the OFL. Refer to `LICENSE-FONT` for details.
 
-`remove_contour.sh` was generated with the help of DeepSeek and is licensed under the MIT License. Refer to `LICENSE-SCRIPT` for details.
+`remove_contour.sh` was generated with the help of DeepSeek and is licensed under the MIT License. Refer to [`LICENSE-SCRIPT`](LICENSE-SCRIPT) for details.
